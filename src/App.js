@@ -26,4 +26,4 @@ const YOUR_APP_KEY= "5dadbe216d63560310fe00f37bd98dec";
   );
 }
 
-export default App;
+export default App
